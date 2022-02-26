@@ -1,0 +1,124 @@
+fileFormatVersion: 2
+guid: 02c0a76892af57549a01afd6f81f987d
+timeCreated: 1465582169
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Camera
+    100002: Group01
+    100004: Groupjects
+    100006: //RootNode
+    100008: HammerHe1
+    100010: HammerHea
+    100012: HammerRubb
+    100014: Lamp
+    100016: Lamp.001
+    100018: Lamp.002
+    100020: TrackBal00
+    100022: TrackBall
+    400000: Camera
+    400002: Group01
+    400004: Groupjects
+    400006: //RootNode
+    400008: HammerHe1
+    400010: HammerHea
+    400012: HammerRubb
+    400014: Lamp
+    400016: Lamp.001
+    400018: Lamp.002
+    400020: TrackBal00
+    400022: TrackBall
+    2300000: Group01
+    2300002: Groupjects
+    2300004: HammerHe1
+    2300006: HammerHea
+    2300008: HammerRubb
+    2300010: TrackBal00
+    2300012: TrackBall
+    3300000: Group01
+    3300002: Groupjects
+    3300004: HammerHe1
+    3300006: HammerHea
+    3300008: HammerRubb
+    3300010: TrackBal00
+    3300012: TrackBall
+    4300000: TrackBal00
+    4300002: TrackBall
+    4300004: Groupjects
+    4300006: Group01
+    4300008: HammerRubb
+    4300010: HammerHea
+    4300012: HammerHe1
+    6400000: Group01
+    6400002: Groupjects
+    6400004: HammerHe1
+    6400006: HammerHea
+    6400008: HammerRubb
+    6400010: TrackBal00
+    6400012: TrackBall
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 3
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 0
+    normalImportMode: 1
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

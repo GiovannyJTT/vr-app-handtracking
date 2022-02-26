@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: 4e5112aad98a6b44aaaf23c4c87b8ac2
+timeCreated: 1469132501
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: crateraExterior005
+    100004: Line005
+    100006: Object001
+    100008: Object002
+    100010: Object003
+    100012: Object004
+    100014: Object005
+    100016: Object006
+    100018: Object007
+    100020: Object008
+    100022: Object009
+    100024: Object010
+    100026: Object011
+    100028: Object012
+    100030: Object013
+    400000: //RootNode
+    400002: crateraExterior005
+    400004: Line005
+    400006: Object001
+    400008: Object002
+    400010: Object003
+    400012: Object004
+    400014: Object005
+    400016: Object006
+    400018: Object007
+    400020: Object008
+    400022: Object009
+    400024: Object010
+    400026: Object011
+    400028: Object012
+    400030: Object013
+    2300000: crateraExterior005
+    2300002: Line005
+    2300004: Object001
+    2300006: Object002
+    2300008: Object003
+    2300010: Object004
+    2300012: Object005
+    2300014: Object006
+    2300016: Object007
+    2300018: Object008
+    2300020: Object009
+    2300022: Object010
+    2300024: Object011
+    2300026: Object012
+    2300028: Object013
+    3300000: crateraExterior005
+    3300002: Line005
+    3300004: Object001
+    3300006: Object002
+    3300008: Object003
+    3300010: Object004
+    3300012: Object005
+    3300014: Object006
+    3300016: Object007
+    3300018: Object008
+    3300020: Object009
+    3300022: Object010
+    3300024: Object011
+    3300026: Object012
+    3300028: Object013
+    4300000: crateraExterior005
+    4300002: Line005
+    4300004: Object001
+    4300006: Object002
+    4300008: Object003
+    4300010: Object004
+    4300012: Object005
+    4300014: Object006
+    4300016: Object007
+    4300018: Object008
+    4300020: Object009
+    4300022: Object010
+    4300024: Object011
+    4300026: Object012
+    4300028: Object013
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

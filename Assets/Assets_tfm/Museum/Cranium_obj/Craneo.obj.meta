@@ -1,0 +1,119 @@
+fileFormatVersion: 2
+guid: f16109cb7619eb54db9b9c6c05f86cde
+timeCreated: 1469018987
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ARMediaMarker001
+    100002: ARMediaMarker002
+    100004: //RootNode
+    100006: Plane001
+    100008: Plane002
+    100010: Plane003
+    100012: Texture_0
+    100014: Texture_0_MeshPart0
+    100016: Texture_0_MeshPart1
+    400000: ARMediaMarker001
+    400002: ARMediaMarker002
+    400004: //RootNode
+    400006: Plane001
+    400008: Plane002
+    400010: Plane003
+    400012: Texture_0
+    400014: Texture_0_MeshPart0
+    400016: Texture_0_MeshPart1
+    2300000: ARMediaMarker001
+    2300002: ARMediaMarker002
+    2300004: Plane001
+    2300006: Plane002
+    2300008: Plane003
+    2300010: Texture_0_MeshPart0
+    2300012: Texture_0_MeshPart1
+    2300014: Texture_0
+    3300000: ARMediaMarker001
+    3300002: ARMediaMarker002
+    3300004: Plane001
+    3300006: Plane002
+    3300008: Plane003
+    3300010: Texture_0_MeshPart0
+    3300012: Texture_0_MeshPart1
+    3300014: Texture_0
+    4300000: ARMediaMarker001
+    4300002: ARMediaMarker002
+    4300004: Plane001
+    4300006: Plane002
+    4300008: Plane003
+    4300010: Texture_0_MeshPart0
+    4300012: Texture_0_MeshPart1
+    4300014: Texture_0
+    6400000: ARMediaMarker001
+    6400002: ARMediaMarker002
+    6400004: Plane001
+    6400006: Plane002
+    6400008: Plane003
+    6400010: Texture_0
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 2
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
