@@ -4,7 +4,7 @@ Video Link: [VR Application](https://www.youtube.com/watch?v=o5yFdqBpLuQ)
 
 ![vr app hand tracking](./docs/vr_app_hand_tracking.gif)
 
-* Virtual Reality Application implemented as part of my Master's degree thesis.
+* Virtual Reality Application implemented as part of my Master's degree thesis (2016).
     * Using: Oculus Rift DK2, Leap Motion, Unity 3D, Nvidia 3D Vision glasses, hand tracking, computer-human interaction
 
     * [Link: Master Degree Thesis](riunet.upv.es/handle/10251/77848 "Comparison of 3D visualization: Oculus vs Nvidia Glasses") *"Comparison of 3D visualization: Oculus vs Nvidia Glasses"*
