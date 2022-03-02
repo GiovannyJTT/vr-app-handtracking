@@ -1,5 +1,7 @@
 # vr-app-handtracking
 
+Video Link: [VR Application](https://www.youtube.com/watch?v=o5yFdqBpLuQ)
+
 ![vr app hand tracking](./docs/vr_app_hand_tracking.gif)
 
 * Virtual Reality Application implemented as part of my Master's degree thesis.
