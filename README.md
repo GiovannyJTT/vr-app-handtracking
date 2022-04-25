@@ -17,8 +17,8 @@ Video Link: [VR Application](https://www.youtube.com/watch?v=o5yFdqBpLuQ)
     * Oculus DK2
     * Leap Motion 2.1
     * Plugins for Leap Motion and SQLite are located at [Link: Plugins](https://github.com/GiovannyJTT/vr-app-handtracking/tree/main/Assets/Plugins "Plugins")
-    * This project assets (audio, fonts, images, materials, models, prefabs, recordings, scenes, and scripts) are located [Link: Assets_tfm](https://github.com/GiovannyJTT/vr-app-handtracking/tree/main/Assets/Assets_tfm "Assets/Assets_tfm")
-    * Code of this project is located at [Link: Assets_tfm](https://github.com/GiovannyJTT/vr-app-handtracking/tree/main/Assets/Assets_tfm/Scripts "Assets/Assets_tfm/Scripts")
+    * This project assets (audio, fonts, images, materials, models, prefabs, recordings, scenes, and scripts) are located [Link: Assets/Assets_tfm](https://github.com/GiovannyJTT/vr-app-handtracking/tree/main/Assets/Assets_tfm "Assets/Assets_tfm")
+    * Code of this project is located at [Link: Assets/Assets_tfm/Scripts](https://github.com/GiovannyJTT/vr-app-handtracking/tree/main/Assets/Assets_tfm/Scripts "Assets/Assets_tfm/Scripts")
 
 ## Index
 
