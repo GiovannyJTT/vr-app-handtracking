@@ -7,14 +7,16 @@ Video Link: [VR Application](https://www.youtube.com/watch?v=o5yFdqBpLuQ)
 * Virtual Reality Application implemented as part of my Master's degree thesis (2016).
     * Using: Oculus Rift DK2, Leap Motion, Unity 3D, Nvidia 3D Vision glasses, hand tracking, computer-human interaction
 
-    * [Link: Master Degree Thesis](riunet.upv.es/handle/10251/77848 "Comparison of 3D visualization: Oculus vs Nvidia Glasses") *"Comparison of 3D visualization: Oculus vs Nvidia Glasses"*
+    * [Link: Master Degree Thesis](riunet.upv.es/handle/10251/77848 "Comparison of 3D visualization: Oculus vs Nvidia Glasses") *"Comparison of 3D visualization: Oculus Dk2 vs Nvidia 3D Glasses"*
 
     * Hands are an indispensable way for humans to interact with the environment in their daily lives. To incorporate the possibility that they can interact with their hands within a virtual world, it raises the degree of immersion and provides a form of natural interaction in virtual reality applications. In this final master work, we undertake the development of a virtual reality application in which stereoscopic visualization and hand interaction are used. At same time, we compare two modes of stereoscopic visualization to determine if participants cope with any of them better. We will observe if the results indicate that regardless of gender, age, or profession, participants prefer the mode with a virtual helmet
     
 * Requirements
     * Windows 7 / 10
     * Unity 5
-    * All Assets are included into `Assets_tfm/`
+    * Plugins for Leap Motion and SQLite are located at [Link: Plugins](https://github.com/GiovannyJTT/vr-app-handtracking/tree/main/Assets/Plugins "Plugins")
+    * This project assets (audio, fonts, images, materials, models, prefabs, recordings, scenes, and scripts) are located [Link: Assets_tfm](https://github.com/GiovannyJTT/vr-app-handtracking/tree/main/Assets/Assets_tfm "Assets/Assets_tfm")
+    * Code of this project is located at [Link: Assets_tfm](https://github.com/GiovannyJTT/vr-app-handtracking/tree/main/Assets/Assets_tfm/Scripts "Assets/Assets_tfm/Scripts")
 
 ## Index
 
