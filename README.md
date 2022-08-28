@@ -7,7 +7,7 @@ Video Link: [VR Application](https://www.youtube.com/watch?v=o5yFdqBpLuQ)
 * Virtual Reality Application implemented as part of my Master's degree thesis (2016).
     * Using: Oculus Rift DK2, Leap Motion, Unity 3D, Nvidia 3D Vision glasses, hand tracking, computer-human interaction
 
-    * [Link: Master Degree Thesis](riunet.upv.es/handle/10251/77848 "Comparison of 3D visualization: Oculus vs Nvidia Glasses") *"Comparison of 3D visualization: Oculus Dk2 vs Nvidia 3D Glasses"*
+    * [Link: Master Degree Thesis](https://riunet.upv.es/handle/10251/77848 "Comparison of 3D visualization: Oculus vs Nvidia Glasses") *"Comparison of 3D visualization: Oculus Dk2 vs Nvidia 3D Glasses"*
 
     * Hands are an indispensable way for humans to interact with the environment in their daily lives. To incorporate the possibility that they can interact with their hands within a virtual world, it raises the degree of immersion and provides a form of natural interaction in virtual reality applications. In this final master work, we undertake the development of a virtual reality application in which stereoscopic visualization and hand interaction are used. At same time, we compare two modes of stereoscopic visualization to determine if participants cope with any of them better. We will observe if the results indicate that regardless of gender, age, or profession, participants prefer the mode with a virtual helmet
     
